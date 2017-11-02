@@ -5,13 +5,15 @@ la Iglesia Bautista Vida Nueva
 ```
 API
 ```
+- Node
 - SASS para los estilos
 - GULP como herramienta de sincronización
 
 ```
 Requisitos
 ```
-- Nodejs, npm
+- Node 
+- npm, gulp instalados de forma global
 
 ```
 Instalación
