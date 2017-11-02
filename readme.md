@@ -1,7 +1,10 @@
-#Proyecto IBVN
+# Proyecto IBVN
 Este proyecto tiene como alcance un sitio web para 
 la Iglesia Bautista Vida Nueva 
-# API
+
+```
+API
+```
 - SASS para los estilos
 - GULP como herramienta de sincronización
 
