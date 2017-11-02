@@ -23,7 +23,7 @@ Instalación
 Iniciar flujo de trabajo
 ```
 - gulp watch
-- Iniciara un servidor en http://localhost:8000/ 
+- Iniciara un servidor en http://localhost:3000/ 
 ```
 Forma de trabajo
 ```
