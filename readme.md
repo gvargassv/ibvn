@@ -13,7 +13,7 @@ Requisitos
 ```
 Instalación
 ```
-- git clone 
+- git clone https://github.com/miguelangelgsl/ibvn.git
 - npm install 
 
 ```
